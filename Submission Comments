@@ -1,0 +1,18 @@
+Hello, Kelly!
+
+Excellent work on Module 7 challenge! You've demonstrated PowerShell and sysadmin skills!
+
+On the same note, a great job depicting new GPO called “No LLMNR'. You've included a screenshot for this. You've done a great job with this deliverable!
+
+In Task 2, you've missed an opportunity to create a new GPO called “Account Lockout”. You've assigned reasonable values for lockout duration, lockout threshold, and reset after lockout count. Good work; the screenshot depicts the above!
+
+You missed an opportunity to create the PowerShell GPO, in Task 3. You've demonstrated settings for Module Logging, Script Blocking, new execution policy, enabling transcript policy, and you ensured that the default source path for Update-Help is not configured.
+
+Excellent work with your script. You've written a for-loop to enumerate the ACLs of files in a folder.
+
+You’ve taken it a step further by completing the bonus, where you've captured a screenshot confirming the deployment of your “Logging GPO”!
+
+This has been a great assignment to help you understand how to create hardened GPOs for Windows domains; keep up the good work!
+
+AT
+Central Grader, Feb 17 at 3:13pm
